@@ -1,4 +1,5 @@
 # RepoBaseProyecto - Grupo 05
+Gonzalo Barros - Javiera Inostroza - Sebastián León - Samuel Zúñiga
 
 ## Importante
 + La documentación de esta entrega se encuentra en  `/Documentación/Presentación de Propuesta y Avance.pdf`
